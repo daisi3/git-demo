@@ -1,0 +1,15 @@
+.box2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 200px;
+    border: 1px solid #26b5f2;
+}
+.box2 div{ 
+
+    width: 200px;
+    height: 100px;
+    background-color: rgb(162, 149, 190);
+}
